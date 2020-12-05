@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ee92a5d-d45c-451f-91d0-400e3382e4cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_API_24]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1l7o567XRID9HW3geeabOmpilqT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_API_24" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-03T01:11:57.731Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Hamwig2_MP3.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ee92a5d-d45c-451f-91d0-400e3382e4cb" name="Default Changelist" comment="" />
+      <created>1606957303887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606957303887</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="970" y="357" key="#Notifications" timestamp="1607122662530">
+      <screen x="0" y="23" width="1920" height="1111" />
+    </state>
+    <state x="970" y="357" key="#Notifications/0.23.1920.1111@0.23.1920.1111" timestamp="1607122662530" />
+    <state x="395" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607028324891">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="395" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.823@0.23.1440.823" timestamp="1607028324891" />
+    <state x="593" y="76" width="1228" height="806" key="AVDManager" timestamp="1606958205358">
+      <screen x="0" y="23" width="1920" height="1102" />
+    </state>
+    <state x="593" y="76" width="1228" height="806" key="AVDManager/0.23.1920.1102@0.23.1920.1102" timestamp="1606958205358" />
+    <state x="867" y="621" key="Github.ShareDialog" timestamp="1607123198286">
+      <screen x="0" y="23" width="1920" height="1111" />
+    </state>
+    <state x="769" y="437" key="Github.ShareDialog/0.23.1920.1109@0.23.1920.1109" timestamp="1607122322483" />
+    <state x="867" y="621" key="Github.ShareDialog/0.23.1920.1111@0.23.1920.1111" timestamp="1607123198286" />
+    <state x="897" y="194" key="Github.UntrackedFilesDialog" timestamp="1607121919725">
+      <screen x="0" y="23" width="1920" height="1111" />
+    </state>
+    <state x="897" y="194" key="Github.UntrackedFilesDialog/0.23.1920.1111@0.23.1920.1111" timestamp="1607121919725" />
+    <state x="435" y="162" key="chooseDestDirectoryDialog" timestamp="1607028308276">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="435" y="162" key="chooseDestDirectoryDialog/0.23.1440.823@0.23.1440.823" timestamp="1607028308276" />
+    <state x="560" y="123" width="1110" height="715" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607123270964">
+      <screen x="0" y="23" width="1920" height="1112" />
+    </state>
+    <state x="560" y="123" width="1110" height="715" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1112@0.23.1920.1112" timestamp="1607123270964" />
+    <state x="719" y="123" width="1110" height="715" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1607122954130">
+      <screen x="0" y="23" width="1920" height="1112" />
+    </state>
+    <state x="719" y="123" width="1110" height="715" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1920.1112@0.23.1920.1112" timestamp="1607122954130" />
+    <state x="958" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607124091871">
+      <screen x="0" y="23" width="1920" height="1111" />
+    </state>
+    <state x="958" y="401" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1111@0.23.1920.1111" timestamp="1607124091871" />
+    <state x="1208" y="382" key="git4idea.ui.GitResetDialog" timestamp="1607122864223">
+      <screen x="0" y="23" width="1920" height="1112" />
+    </state>
+    <state x="1208" y="382" key="git4idea.ui.GitResetDialog/0.23.1920.1112@0.23.1920.1112" timestamp="1607122864223" />
+  </component>
+</project>

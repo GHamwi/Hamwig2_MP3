@@ -1,0 +1,4 @@
+#Fri Dec 04 18:03:50 EST 2020
+base.0=/Users/georgehamwi/AndroidStudioProjects/Hamwig2_MP3/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

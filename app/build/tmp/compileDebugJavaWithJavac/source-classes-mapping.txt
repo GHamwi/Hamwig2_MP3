@@ -1,0 +1,28 @@
+com/example/Hamwig2_MP3/MainActivity.java
+ com.example.Hamwig2_MP3.MainActivity
+ com.example.Hamwig2_MP3.MainActivity$1
+com/example/Hamwig2_MP3/Music.java
+ com.example.Hamwig2_MP3.Music
+ com.example.Hamwig2_MP3.Music$1
+ com.example.Hamwig2_MP3.Music$2
+com/example/Hamwig2_MP3/PagerAdapter.java
+ com.example.Hamwig2_MP3.PagerAdapter
+com/example/Hamwig2_MP3/Album.java
+ com.example.Hamwig2_MP3.Album
+com/example/Hamwig2_MP3/CurrentList.java
+ com.example.Hamwig2_MP3.CurrentList
+com/example/Hamwig2_MP3/Player.java
+ com.example.Hamwig2_MP3.Player
+ com.example.Hamwig2_MP3.Player$1
+ com.example.Hamwig2_MP3.Player$2
+ com.example.Hamwig2_MP3.Player$3
+ com.example.Hamwig2_MP3.Player$4
+ com.example.Hamwig2_MP3.Player$5
+ com.example.Hamwig2_MP3.Player$6
+ com.example.Hamwig2_MP3.Player$7
+ com.example.Hamwig2_MP3.Player$8
+ com.example.Hamwig2_MP3.Player$9
+com/example/Hamwig2_MP3/BuildConfig.java
+ com.example.Hamwig2_MP3.BuildConfig
+com/example/Hamwig2_MP3/Playlist.java
+ com.example.Hamwig2_MP3.Playlist
